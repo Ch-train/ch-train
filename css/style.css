@@ -1316,6 +1316,7 @@ input[type="search"]:focus {
 @media (max-width: 576px) {
     .container {
         width: 100%;
+        min-width: 515px;
     }
 
     .pagination,
